@@ -1,0 +1,21 @@
+po_number,supplier,order_date,part,item_qty,unit_cost,status
+PO-2001,Acme Industrial,2026-09-01,Bolt M8,500,0.12,Received
+PO-2002,BrightParts LLC,09/02/2026,Gasket Kit,200,4.75,Received
+PO-2003,Acme Industrial,2026-09-03,Washer M8,1000,0.05,received
+PO-2003,Acme Industrial,2026-09-03,Washer M8,1000,0.05,received
+PO-2004,CoreSteel Inc,2026/09/04,Steel Plate 2mm,50,38.00,In Transit
+,Delta Fasteners,2026-09-05,Screw M6,2000,0.08,Received
+PO-2006,BrightParts LLC,2026-09-06,Gasket Kit,150,4.75,RECEIVED
+PO-2007,Acme Industrial,2026-09-07,Bolt M8,-25,0.12,Received
+PO-2008,CoreSteel Inc,2026-09-08,Steel Plate 2mm,50,380.00,In Transit
+PO-2009,Delta Fasteners,2026-09-09,Screw M6,2000,,Received
+PO-2010,Acme Industrial,2026-09-10,Bolt M8,500,0.12,Pending
+PO-2011,BrightParts LLC,2026-09-11,O-Ring Set,300,1.25,Recieved
+PO-2012,CoreSteel Inc,32/13/2026,Steel Rod 10mm,80,6.40,Received
+PO-2013,Delta Fasteners,2026-09-13,Screw M6,2000,0.08,Received
+PO-2014,Acme Industrial ,2026-09-14,Washer M8,1200,0.05,Received
+PO-2015,BrightParts LLC,2026-09-15,Gasket Kit,175,4.75,Received
+PO-2015,BrightParts LLC,2026-09-16,Gasket Kit,175,4.75,Received
+PO-2016,Delta Fasteners,2026-09-17,Screw M6,0,0.08,Cancelled
+PO-2017,CoreSteel Inc,2026-09-18,Steel Plate 2mm,50,38.00,Received
+PO-2018,Acme Industrial,2026-09-19,Bolt M8,500,0.12,Received
